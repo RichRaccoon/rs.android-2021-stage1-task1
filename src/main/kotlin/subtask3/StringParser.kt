@@ -2,7 +2,6 @@ package subtask3
 
 class StringParser {
 
-    // TODO: Complete the following function
     fun getResult(inputString: String): Array<String> {
         val result: MutableList<String> = mutableListOf()
         var tempString: String
